@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    
+}
+body{
+    background-color: cornflowerblue;
+}
+label{
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkred;
+    
+}
+
+div.one{
+    float: left;
+}
